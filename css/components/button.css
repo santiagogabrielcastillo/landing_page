@@ -1,0 +1,38 @@
+/* Your button CSS file */
+
+.btn-medium {
+  color: #c2baba;
+  border: 1px solid #c2baba;
+  padding: 11px 24px;
+  border-radius: 25px;
+}
+
+.btn-medium:hover {
+  color: #7e7b7b;
+  border: 1px solid #7e7b7b;
+}
+
+.btn-treehouse {
+  font-weight: 400;
+  color: white;
+  background-color: #1EDD88;
+  border-radius: 25px;
+  padding: 15px 30px;
+}
+
+.btn-treehouse:hover {
+  background-color: #24ad62;
+  transition: 500ms;
+}
+
+.btn-facebook {
+  color: white;
+  font-weight: 700;
+  background-color: #1771E6;
+  padding: 11px 30px;
+  border-radius: 10px;
+}
+
+.btn-facebook:hover {
+  background-color: #104891;
+}

@@ -1,0 +1,23 @@
+.footer {
+  height: 100px;
+  background-color: #2C2B2B;
+  background-size: cover;
+  text-align: center;
+}
+
+.footer i {
+  color:  #1EDD88;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+.footer i:hover {
+  color: #24ad62;
+  transition: 500ms;
+}
+
+.footer p {
+  color: #C1C1C1;
+  font-weight: lighter;
+  font-size: 14px;
+}
